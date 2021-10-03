@@ -1,4 +1,4 @@
-## Text-to-Pdf
+## Text-to-PDF
 
 This repository contains an opensource  web application to creates PDFs from textual data in realtime. It is built using ReactJS Library.
 
