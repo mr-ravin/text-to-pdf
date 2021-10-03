@@ -5,7 +5,7 @@ This repository contains an opensource  web application to creates PDFs from tex
 #### Hosted on: [https://mr-ravin.github.io/text-to-pdf/](https://mr-ravin.github.io/text-to-pdf/)
 
 ```python
-Copyright (c) 2019 Ravin Kumar
+Copyright (c) 2021 Ravin Kumar
 Website: https://mr-ravin.github.io
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation 
