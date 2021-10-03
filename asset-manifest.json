@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/text-to-pdf/static/css/main.b4dad077.chunk.css",
-    "main.js": "/text-to-pdf/static/js/main.7ba0e6ba.chunk.js",
-    "main.js.map": "/text-to-pdf/static/js/main.7ba0e6ba.chunk.js.map",
+    "main.js": "/text-to-pdf/static/js/main.a5439fd4.chunk.js",
+    "main.js.map": "/text-to-pdf/static/js/main.a5439fd4.chunk.js.map",
     "runtime-main.js": "/text-to-pdf/static/js/runtime-main.75cefe45.js",
     "runtime-main.js.map": "/text-to-pdf/static/js/runtime-main.75cefe45.js.map",
     "static/css/2.e426f036.chunk.css": "/text-to-pdf/static/css/2.e426f036.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.e426f036.chunk.css",
     "static/js/2.1dbbfb49.chunk.js",
     "static/css/main.b4dad077.chunk.css",
-    "static/js/main.7ba0e6ba.chunk.js"
+    "static/js/main.a5439fd4.chunk.js"
   ]
 }
